@@ -10,7 +10,7 @@ The [Networked Data Lab](https://www.health.org.uk/funding-and-partnerships/our-
 
 #### Our labs
 
-<img src="partners-map.png" width=14% height=14% align="left"/>
+<img src="partners-map.png" width="14%" height="14%" align="left"/>
 <ul>
   <li>The <a href="https://www.abdn.ac.uk/achds/">Aberdeen Centre for Health Data Science</a> (ACHDS) which includes <a href="https://www.nhsgrampian.org/">NHS Grampian</a>
  and the <a href="https://www.aberdeen-isc.ac.uk/">University of Aberdeen</a></li>
