@@ -8,13 +8,18 @@ Welcome to the Networked Data Lab's central landing page on GitHub, where we all
 
 The [Networked Data Lab](https://www.health.org.uk/funding-and-partnerships/our-partnerships/the-networked-data-lab) is a collaborative network of analytical teams across the UK working together using linked datasets on key issues facing health and care services today. We started in 2020, and we work closely with our five partners across the UK who are embedded within their local health and care systems and have detailed knowledge of both their local health and care environments and their linked data sets. Our five teams work on a new topic approximately every year, with each topic yielding a series of outputs (including, but not limited to, publications).
 
-#### Our partners
+#### Our labs
 
-- The Aberdeen Centre for Health Data Science (ACHDS) which includes NHS Grampian and the University of Aberdeen 
-- Public Health Wales, Digital Health and Care Wales (DHCW), Swansea University (SAIL Databank) and Social Care Wales (SCW)
-- Imperial College Health Partners (ICHP), Institute of Global Health Innovation (IGHI), Imperial College London (ICL), and North West London CCGs 
-- Liverpool CCG and Healthy Wirral Partnership 
-- Leeds CCG and Leeds City Council
+<img src="partners-map.png" width=14% height=14% align="left"/>
+<ul>
+  <li>The <a href="https://www.abdn.ac.uk/achds/">Aberdeen Centre for Health Data Science</a> (ACHDS) which includes <a href="https://www.nhsgrampian.org/">NHS Grampian</a>
+ and the <a href="https://www.aberdeen-isc.ac.uk/">University of Aberdeen</a></li>
+  <li><a href="https://www.leedsccg.nhs.uk/">Leeds CCG</a> and <a href="https://www.leeds.gov.uk/">Leeds City Council</a></li>
+  <li><a href="https://phw.nhs.wales/">Public Health Wales</a> (PHW), <a href="https://dhcw.nhs.wales/">Digital Health and Care Wales</a>, <a href="https://saildatabank.com/">Swansea University</a> (SAIL Databank) and <a href="https://socialcare.wales/">Social Care Wales</a> (SCW)</li>
+  <li><a href="https://imperialcollegehealthpartners.com/">Imperial College Health Partners</a> (ICHP), <a href="https://www.imperial.ac.uk/global-health-innovation/">Institute of Global Health Innovation</a> (IGHI), <a href="https://www.imperial.ac.uk/">Imperial College London</a> (ICL), and <a href="https://www.nwlondonics.nhs.uk/">North West London CCGs</a></li>
+  <li><a href="https://www.liverpoolccg.nhs.uk/">Liverpool CCG</a> and <a href="https://www.wirralccg.nhs.uk/healthy-wirral/">Healthy Wirral Partnership</a></li>
+</ul>
+<br clear="left"/> 
 
 #### Our approach to open analytics
 
