@@ -23,7 +23,7 @@ The [Networked Data Lab](https://www.health.org.uk/funding-and-partnerships/our-
 
 #### Our approach to open analytics
 
-As a network, we aim to work as openly and collaboratively as possible. This includes publicly sharing our analysis plans (which includes our methodology for each analysis), codes used in analyses (SQL and R) and other analytical resources (such as clinical code lists or data extraction pipelines). A limitation we face is that many of the codes used by our partners, and shared here, are intented for use on patient healthcare records, which we cannot make publicly available because of ethical considerations. However, these codes can be used by other teams in the health and social care space who have secured access to similar patient records.
+As a network, we aim to work as openly and collaboratively as possible. This includes publicly sharing our analysis plans (which includes our methodology for each analysis), codes used in analyses (SQL and R) and other analytical resources (such as clinical code lists or data extraction pipelines). A limitation is that many of the codes used by our partners (and shared here) are intented for use on patient healthcare records, which we cannot make publicly available because of ethical considerations. However, these codes can be used by other teams who have secured access to similar patient records.
 
 ### :one: Topic 1: COVID-19 and the clinically extremely vulnerable (CEV) population (2020-2021)
 
